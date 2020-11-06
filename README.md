@@ -1,6 +1,6 @@
 # GUTS Constitution
 
-The lastest valid constitution for the GU Tech Society can be found on its [website](https://gutechsoc.com "GUTS Website").
+The lastest valid constitution for the GU Tech Society can be found [here](https://gutechsoc.com/files/constitution2020.pdf "GUTS Constitution 2020") or by generating the PDF after cloning/downloading content from the main branch.
 
 ## File Generation
 
